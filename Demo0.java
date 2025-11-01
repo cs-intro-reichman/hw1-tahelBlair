@@ -10,7 +10,7 @@ public class Demo0 {
         {
             System.out.println(i);
             i = i + 1;
-        }
+        } 
         System.out.println("Done");
 
         //change 1 - didn't compile, there is a compile time error because the class's name doesn't match the file's name.

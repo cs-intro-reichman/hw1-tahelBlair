@@ -3,7 +3,7 @@
 public class Ascend {
 	public static void main(String[] args) {
 		int lim = Integer.parseInt(args[0]);
-
+ 
 		int a = (int)(Math.random()*(lim+1));
 		int b = (int)(Math.random()*(lim+1));
 		int c = (int)(Math.random()*(lim+1));

@@ -14,7 +14,7 @@ public class TimeFormat {
 		int minutes = Integer.parseInt("" + args[0].charAt(3) + args[0].charAt(4));
         
 		String time ;
-		if (hours<12) {
+		if (hours<12) { 
 			time = hours + ":";
 			if (minutes<10) {
 				time = time + 0 + minutes + " AM";
