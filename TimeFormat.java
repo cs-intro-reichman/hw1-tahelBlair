@@ -33,7 +33,7 @@ public class TimeFormat {
 				}
 				}
 		else {
-			time = hours + ":";
+			time = (hours-12) + ":";
 			if (minutes<10) {
 				time = time + 0 + minutes + " PM";
 				}
