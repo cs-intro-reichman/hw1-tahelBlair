@@ -39,7 +39,7 @@ public class TimeFormat {
 				} 
 				else {
 					time = time + minutes + " PM";
-				}
+				} 
 		}
 		System.out.println(time);
 	 }

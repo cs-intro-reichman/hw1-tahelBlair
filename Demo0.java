@@ -8,7 +8,7 @@ public class Demo0 {
         // Complete the program's code here:
         while (i<6)
         { 
-            System.out.println(i);
+            System.out.println(i); 
             i = i + 1;
         } 
         System.out.println("Done");
